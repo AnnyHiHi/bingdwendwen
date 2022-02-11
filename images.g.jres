@@ -1,0 +1,19 @@
+{
+    "image1": {
+        "data": "hwQUABQAAAAAAAAAAAAAAAAAAAAAAAAAAPCWlmkAAAAAAAAAAP8PAJkGAAAAAAAA8A+ZBgAGAAAAALu7uwuQmWYAAAAAv4EVERH7/28JAADwH/iPERGx/28JAAAAUd8fGBER+28JAACwUf8RE4ER+28JAACwgREfE1ERC5AAAACwMREfFXERC5AAAACwMf8RGCER+28JAAAAUd8fFRER+28JAADwH/iPERGx/28JAAAAv4ETERH7/28JAAAAALu7uwuQmWYAAAAAAAAA8A+ZBgAGAAAAAAAAAP8PAJkGAAAAAAAAAPCWlmkAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZjQwMTEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA=",
+        "displayName": "myAnim"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
